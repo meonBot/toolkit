@@ -10,6 +10,8 @@
 
 ## GitHub Actions Toolkit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/meonBot/toolkit.svg)](https://greenkeeper.io/)
+
 The GitHub Actions ToolKit provides a set of packages to make creating actions easier.
 
 <br/>
